@@ -1,0 +1,1 @@
+评估版软件，可以到美国国家仪器公司官网下载，网址：http://search.ni.com/nisearch/app/main/p/bot/no/ap/tech/lang/zhs/pg/1/sn/catnav:ev/fil/AND(OR(nilangs:en,nilangs:zh-CN),%20OR(phwebnt:9976,phwebnt:9072),nicontenttype:evaluation)/
